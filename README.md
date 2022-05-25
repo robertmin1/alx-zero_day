@@ -1,4 +1,4 @@
-#Holberton Zero Day
+#ALX Zero Day
 
 This repository contains all exercises assigned on day 0.
 
